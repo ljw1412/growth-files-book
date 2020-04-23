@@ -1,0 +1,163 @@
+[
+  {
+    "data": {
+      "picpath": "",
+      "campusName": "快乐学校",
+      "className": "一（1）班",
+      "stuName": "小明"
+    },
+    "type": "FRONT_COVER",
+    "title": "封面",
+    "moduleid": "156156456456464610"
+  },
+  {
+    "data": {
+      "id": "ba8c26fa92c64af9c72392c75a29f486",
+      "content": "1.面对机遇,不犹豫;面对抉择,不彷徨;面对决战,不惧怕!\n2.勤奋出聪明,博学出智慧,多练出技巧,巧思出硕果。\n3.进步,意味着目标不断前移,阶段不断更新,视野不断开阔。祝你在新的一年里取得更大的进步!\n4.学习不能好高骛远,须一步一个脚印;进步不能一步登天,须一步一级台阶。"
+    },
+    "type": "GROWTH_TITLE_PAGE",
+    "title": "扉页",
+    "moduleid": "156156456456464620"
+  },
+  {
+    "data": {
+      "birthday": "2008-03-16",
+      "zodiacCode": "",
+      "picpath": [""],
+      "chineseZodiacCode": "1",
+      "zodiac": "金牛座",
+      "sex": 1,
+      "chineseZodiac": "牛",
+      "weight": 40,
+      "stuName": "小明",
+      "leftSight": "5.0",
+      "alias": "明儿",
+      "id": "0316da6f624983fdcb6cac2064ff9344",
+      "rightSight": "5.0",
+      "age": 2,
+      "height": 160
+    },
+    "type": "GROWTH_STU",
+    "title": "我",
+    "moduleid": "156156456456464640"
+  },
+  {
+    "data": {
+      "teacherList": [
+        { "picpath": "", "teacherName": "小红", "phone": "15999999999" },
+        { "picpath": "", "teacherName": "小绿", "phone": "15000000000" }
+      ]
+    },
+    "type": "GROWTH_TEACHER",
+    "title": "快乐老师",
+    "moduleid": "156156456456464670"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_FAMILY",
+    "title": "幸福一家人",
+    "moduleid": "156156456456464650"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_RECORD",
+    "title": "成长记录",
+    "moduleid": "156156456456464680"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_WORKS",
+    "title": "我的作品",
+    "moduleid": "156156456456464681"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_TIMES",
+    "title": "成长瞬间",
+    "moduleid": "156156456456464682"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_COMMON_LEARN_STORY",
+    "title": "学习故事",
+    "moduleid": "156156456456464683"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_COMMON_GROW_STORY",
+    "title": "成长故事",
+    "moduleid": "156156456456464684"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_INITIAL_INDEX",
+    "title": "期初考评",
+    "moduleid": "156156456456464685"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_FINAL_INDEX",
+    "title": "期末考评",
+    "moduleid": "156156456456464690"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_FINAL_COMMENT",
+    "title": "期末评语",
+    "moduleid": "156156456456464700"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_BIRTHDAY",
+    "title": "生日",
+    "moduleid": "156156456456464710"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_MEMORY",
+    "title": "成长记忆",
+    "moduleid": "156156456456464730"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_HEALTH",
+    "title": "体检结果",
+    "moduleid": "156156456456464740"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_COMMON_HEALTH",
+    "title": "体检报告",
+    "moduleid": "156156456456464742"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_CLASS",
+    "title": "我的班级",
+    "moduleid": "156156456456464750"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_HOLIDAY",
+    "title": "我放假了",
+    "moduleid": "156156456456464760"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_CLASSCIRCLE",
+    "title": "班级圈收藏",
+    "moduleid": "156156456456464761"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_HOLIDAY_GREETINGS",
+    "title": "假期祝语",
+    "moduleid": "156156456456464762"
+  },
+  {
+    "data": {},
+    "type": "GROWTH_COMMON_BY_CLASS_CLASS_EVENT",
+    "title": "班级活动",
+    "moduleid": "156156456456464778"
+  }
+]
